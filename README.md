@@ -1,3 +1,15 @@
+> **Team NoTime submission.** Our code is in [`solution/`](solution/), and the technical document
+> is [`docs/NoTime.md`](docs/NoTime.md). To reproduce `NoTime.csv` (Python 3.11, match data in `data/`):
+>
+> ```bash
+> pip install -r solution/requirements.txt
+> python solution/run.py        # -> evaluation/results/NoTime.csv
+> ```
+>
+> New team member? Start with [`docs/TEAM_HANDOVER.md`](docs/TEAM_HANDOVER.md).
+>
+> Everything below is the organisers' original README.
+
 # More than a Hack 2027 — Phase 1: Ball Possession
 
 **Organised by [Metrica Sports](https://metrica-sports.com), [FC Barcelona](https://www.fcbarcelona.com)
